@@ -1,5 +1,5 @@
 Exercise programs
-Thesse are the soluations for folowing problems
+These are the solutions for flowing problems
    - Write a program to find the largest number in a list of numbers
    - Write a program to find the smallest number in a list of numbers
    - Write a program to find the largest and smallest numbers in a list of numbers
